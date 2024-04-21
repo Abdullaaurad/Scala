@@ -1,0 +1,23 @@
+error id: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/fuction.scala:[197..200) in Input.VirtualFile("file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/fuction.scala", "object Demo{
+    def Add(x:Int , y:Int): Int = {
+        x+y
+    }
+    def Subtract(x:Int , y:Int): Int =x-y
+    def Multiply(x:Int , y:Int): Int = {
+        return x*y
+    }
+    def 
+    def main(args: Array[String]): Unit ={
+        var x: Int =5
+        var y: Int =3
+        var l = Multiply(x,y)
+        println(s"the value of $x*$y = $l")
+    }
+}")
+file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/fuction.scala
+file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/fuction.scala:10: error: expected identifier; obtained def
+    def main(args: Array[String]): Unit ={
+    ^
+#### Short summary: 
+
+expected identifier; obtained def

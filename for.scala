@@ -1,7 +1,12 @@
 object ForLoopExample {
   def main(args: Array[String]): Unit = {
     // Using a for loop with a range
-    for (i <- 1 to 5) {
+    println("\t\tUsing To")
+    for (i <- 1 to 5) {            //will take i as variable 
+      println(s"Value of i: $i")
+    }
+    println("\t\tUsing Until")
+    for (i <- 1 until 5) {          
       println(s"Value of i: $i")
     }
 
