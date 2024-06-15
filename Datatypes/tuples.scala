@@ -5,5 +5,12 @@ object tupp{
         println(mytuple._1)
         println(mytuple._3)
         
+        val tuple = (1, "Scala")
+        val swapped = tuple.swap
+        println(swapped) 
+
+        val tupleString = mytuple.toString()
+        println(tupleString) // Output: (1,Scala,3.14)
+
     }
 }

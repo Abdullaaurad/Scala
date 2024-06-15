@@ -1,13 +1,16 @@
 abstract class Shape {
   // Abstract method
+  var x:Double
   def area(): Double
 }
 
 class Circle(radius: Double) extends Shape {
+  var x:Double = radius
   override def area(): Double = math.Pi * radius * radius
 }
 
 class Rectangle(width: Double, height: Double) extends Shape {
+  var x:Double = width
   override def area(): Double = width * height
 }
 

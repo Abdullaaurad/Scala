@@ -1,0 +1,2 @@
+this a function to Read a file From a text file
+this function uses scala as it's programming language

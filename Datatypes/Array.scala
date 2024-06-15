@@ -57,5 +57,10 @@ object ArrayExample {
     val containsTwelve = numbers.contains(12)
     println(s"Does the array contain 5? $containsFive")
     println(s"Does the array contain 12? $containsTwelve")
+
+    val list = List(1, 2, 3, 4)
+    val tailList = list.tail
+    println(tailList) // Output: List(2, 3, 4)
+
   }
 }

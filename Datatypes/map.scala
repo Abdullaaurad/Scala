@@ -1,13 +1,29 @@
 object MapExample {
-  def main(args: Array[String]): Unit = {
-    // Define a list of integers
-    val numbers = List(1, 2, 3, 4, 5)
+    def main(args: Array[String]): Unit = {
+        val immutableMap = Map("a" -> 1, "b" -> 2, "c" -> 3)
+        println(immutableMap)
+        val valueA = immutableMap("a")
+        println(valueA) // Output: 1
 
-    // Use map to double each element in the list
-    val doubledNumbers = numbers.map(num => num * 2)
+        val valueB = immutableMap.getOrElse("b", 0)
+        println(valueB) // Output: 2
 
-    // Print the original list and the doubled list
-    println("Original numbers: " + numbers)
-    println("Doubled numbers: " + doubledNumbers)
-  }
+        val valueD = immutableMap.getOrElse("d", 0)
+        println(valueD) // Output: 0
+        
+        val reducedMap = immutableMap - "b"
+        println(reducedMap) // Output: Map(a -> 1, c -> 3)
+
+        import scala.collection.mutable
+
+        val mutableMap = mutable.Map("a" -> 1, "b" -> 2, "c" -> 3)
+        println(mutableMap) // Output: Map(a -> 1, b -> 2, c -> 3)
+
+        val keys = immutableMap.keys
+        println(keys) // Output: Set(a, b, c)
+
+        val values = immutableMap.values
+        println(values) // Output: List(1, 2, 3)
+
+    }
 }
