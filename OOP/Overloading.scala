@@ -9,7 +9,7 @@ object MathOperations {
     def add(a: String, b: String): String = a + b
 }
 
-object Main {
+object lol {
     def main(args: Array[String]): Unit = {
         val sumIntegers = MathOperations.add(3, 5)
         println(s"Sum of integers: $sumIntegers") // Output: Sum of integers: 8

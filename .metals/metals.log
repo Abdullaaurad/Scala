@@ -5017,3 +5017,53 @@ WARNING: Unmatched cancel notification for request id 25
 2024.06.15 22:47:16 INFO  time: compiled Scala_f4dd477a3a in 1.29s
 2024.06.15 22:47:16 INFO  compiling scala_f4dd477a3a (72 scala sources)
 2024.06.15 22:47:19 INFO  time: compiled Scala_f4dd477a3a in 1.74s
+2024.06.15 22:59:47 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 22:59:48 INFO  time: compiled Scala_f4dd477a3a in 1.43s
+2024.06.15 22:59:49 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 22:59:51 INFO  time: compiled Scala_f4dd477a3a in 1.58s
+2024.06.15 23:00:49 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 23:00:50 INFO  time: compiled Scala_f4dd477a3a in 1.19s
+2024.06.15 23:00:50 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 23:00:52 INFO  time: compiled Scala_f4dd477a3a in 1.24s
+2024.06.15 23:03:22 INFO  compiling scala_f4dd477a3a (73 scala sources)
+2024.06.15 23:03:23 INFO  time: compiled Scala_f4dd477a3a in 1.09s
+2024.06.15 23:03:23 INFO  compiling scala_f4dd477a3a (73 scala sources)
+2024.06.15 23:03:24 INFO  time: compiled Scala_f4dd477a3a in 0.94s
+2024.06.15 23:03:39 INFO  time: indexed workspace in 16s
+2024.06.15 23:03:39 INFO  compiling scala_f4dd477a3a (73 scala sources)
+2024.06.15 23:03:39 INFO  time: compiled Scala_f4dd477a3a in 0.69s
+2024.06.15 23:10:56 INFO  compiling scala_f4dd477a3a (73 scala sources)
+2024.06.15 23:10:58 INFO  time: compiled Scala_f4dd477a3a in 1.7s
+Jun 15, 2024 11:11:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.15 23:12:02 INFO  Cancelling compilation on scala-cli server
+2024.06.15 23:12:03 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 23:12:04 WARN  Invalid text document uri received from build server: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/Slides/tempCodeRunnerFile.scala
+2024.06.15 23:12:04 INFO  time: compiled Scala_f4dd477a3a in 1.03s
+2024.06.15 23:12:04 INFO  time: Imported build in 1.22s
+2024.06.15 23:12:04 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 23:12:05 INFO  time: compiled Scala_f4dd477a3a in 1.84s
+2024.06.15 23:12:05 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.15 23:12:07 INFO  Cancelling compilation on scala-cli server
+2024.06.15 23:12:07 INFO  time: compiled Scala_f4dd477a3a in 1.32s
+2024.06.15 23:12:07 INFO  compiling scala_f4dd477a3a (71 scala sources)
+2024.06.15 23:12:09 INFO  time: compiled Scala_f4dd477a3a in 1.75s
+2024.06.15 23:12:09 INFO  time: Imported build in 2.07s
+2024.06.15 23:12:09 INFO  compiling scala_f4dd477a3a (71 scala sources)
+2024.06.15 23:12:11 INFO  time: compiled Scala_f4dd477a3a in 1.5s
+2024.06.15 23:12:11 INFO  compiling scala_f4dd477a3a (71 scala sources)
+2024.06.15 23:12:12 INFO  time: compiled Scala_f4dd477a3a in 1.05s
+2024.06.15 23:12:18 INFO  time: indexed workspace in 14s
+2024.06.15 23:12:19 INFO  compiling scala_f4dd477a3a (71 scala sources)
+2024.06.15 23:12:19 INFO  time: compiled Scala_f4dd477a3a in 0.89s
+2024.06.15 23:12:21 INFO  time: indexed workspace in 12s
+2024.06.15 23:12:22 INFO  compiling scala_f4dd477a3a (71 scala sources)
+Jun 15, 2024 11:12:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 283
+Jun 15, 2024 11:12:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 285
+Jun 15, 2024 11:12:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 286
+2024.06.15 23:12:22 INFO  time: compiled Scala_f4dd477a3a in 0.89s
+2024.06.15 23:12:43 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\C to F.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 23:12:43 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\C to F.scala. Using presentation compiler with project's scala-library version: 3.3.3

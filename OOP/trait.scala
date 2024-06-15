@@ -1,4 +1,4 @@
-object Trait{
+object So_Trait{
     def main(args: Array[String]): Unit ={
         //val An = new Animal()
         val dog = new Dog()
