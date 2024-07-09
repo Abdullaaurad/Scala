@@ -1,7 +1,7 @@
 object variables{
     def main(args: Array[String]): Unit={
         val Name = "Abdulla" // Type String inferred
-        val Name2: String = "Fadhiya" 
+        val Name2: String = "Yunus" 
         val Age = 20 // Type Int inferred
         val Age2: Int = 22
         val Wake = true // Type Boolean inferred

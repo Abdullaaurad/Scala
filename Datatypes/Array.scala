@@ -62,5 +62,6 @@ object ArrayExample {
     val tailList = list.tail
     println(tailList) // Output: List(2, 3, 4)
 
+    var num:Array[Int] = Array(2,6,1)
   }
 }
