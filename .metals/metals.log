@@ -5828,3 +5828,70 @@ Jun 23, 2024 8:10:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 591
 Jun 23, 2024 8:10:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 594
+2024.06.23 20:10:45 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equivalent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:10:45 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equivalent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:10:46 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/OOP/Equivalent.scala
+2024.06.23 20:10:47 INFO  time: Imported build in 0.12s
+2024.06.23 20:10:47 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:10:50 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:10:50 INFO  time: compiled Scala_f4dd477a3a in 0.67s
+2024.06.23 20:10:51 INFO  Deduplicating compilation of Scala_f4dd477a3a from bsp client 'scala-cli 1.2.1' (since 53m 56.677s)
+2024.06.23 20:10:51 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:10:54 INFO  time: indexed workspace in 6.98s
+2024.06.23 20:10:54 INFO  time: compiled Scala_f4dd477a3a in 2.67s
+2024.06.23 20:10:54 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:10:56 INFO  time: compiled Scala_f4dd477a3a in 1.43s
+Jun 23, 2024 8:11:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 647
+2024.06.23 20:11:20 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:21 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:22 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:22 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:22 INFO  Cancelling compilation on scala-cli server
+2024.06.23 20:11:22 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:22 INFO  time: code lens generation in 1.53s
+2024.06.23 20:11:23 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:23 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:24 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:24 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\Scala\OOP\Equilateral.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.23 20:11:25 WARN  Invalid text document uri received from build server: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/Scala/OOP/Equivalent.scala
+2024.06.23 20:11:25 INFO  time: compiled Scala_f4dd477a3a in 2.48s
+2024.06.23 20:11:25 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:25 INFO  time: Imported build in 2.63s
+Jun 23, 2024 8:11:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+Jun 23, 2024 8:11:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 688
+2024.06.23 20:11:27 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:27 INFO  Deduplicating compilation of Scala_f4dd477a3a from bsp client 'scala-cli 1.2.1' (since 54m 32.897s)
+2024.06.23 20:11:27 INFO  compiling scala_f4dd477a3a (72 scala sources)
+Jun 23, 2024 8:11:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 698
+2024.06.23 20:11:29 INFO  time: compiled Scala_f4dd477a3a in 1.52s
+2024.06.23 20:11:29 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:30 INFO  time: indexed workspace in 5.8s
+2024.06.23 20:11:32 INFO  time: compiled Scala_f4dd477a3a in 1.96s
+2024.06.23 20:11:32 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:34 INFO  time: compiled Scala_f4dd477a3a in 1.58s
+2024.06.23 20:11:36 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:37 INFO  time: compiled Scala_f4dd477a3a in 1.2s
+2024.06.23 20:11:37 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:39 INFO  time: compiled Scala_f4dd477a3a in 1.2s
+2024.06.23 20:11:42 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:42 INFO  time: compiled Scala_f4dd477a3a in 0.92s
+2024.06.23 20:11:49 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:49 INFO  time: compiled Scala_f4dd477a3a in 0.96s
+2024.06.23 20:11:54 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:11:54 INFO  time: compiled Scala_f4dd477a3a in 0.81s
+2024.06.23 20:12:09 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:12:11 INFO  time: compiled Scala_f4dd477a3a in 1.4s
+2024.06.23 20:12:14 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:12:14 INFO  time: compiled Scala_f4dd477a3a in 0.98s
+2024.06.23 20:12:16 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:12:17 INFO  time: compiled Scala_f4dd477a3a in 1.21s
+2024.06.23 20:12:21 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:12:21 INFO  time: compiled Scala_f4dd477a3a in 0.73s
+2024.06.23 20:12:25 INFO  compiling scala_f4dd477a3a (72 scala sources)
+2024.06.23 20:12:25 INFO  time: compiled Scala_f4dd477a3a in 0.82s
+Jun 23, 2024 8:15:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
